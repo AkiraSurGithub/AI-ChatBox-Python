@@ -1,0 +1,22 @@
+{"intents": [
+    {"tag": "salutations",
+    "patterns": ["Bonjour", "Salut", "Bonsoir", "Hey", "Coucou", "Wesh", "Yo"],
+    "responses": ["Bonjour !", "Salut !","Hey !", "Je peux vous aider ?"]
+},
+{"tag": "Au revoir",
+    "patterns": ["Au revoir", "A plus ", "Je te laisse", "Bye", "je pars", "j'y vais", "a la prochaine", "cao"],
+    "responses": ["Déjà !", "a plus tard :)","Au revoir !", "On se parle plus tard"]
+},
+{"tag": "Age",
+    "patterns": ["Quel age tu-a ?", "ta quel age ", "age?", "c'est quoi ton age ?", "donne moi ton age"],
+    "responses": ["Je n'est pas vraiment d'age, mais mon créateur à 18 ans", "18 ans (c'est l'age de mon créateur ;) ) "]
+},
+{"tag": "nom",
+    "patterns": ["tu t'appel comment ?", "Ta un nom ?", "nom?", "ta un prénom ?", "prénom ?", "c'est quoi ton prénom", "c'est quoi ton prénom ?", "c'est quoi ton nom?", "c'est quoi ton nom", "comment je peut t'appeler?", "donne moi ton nom", " donne moi ton prénom"],
+    "responses": ["Je m'appelle Akira", "Akira est mon prénom","Akira !", "Mon créateur ma donner comme prénom Akira", "mon prénom est Akira !", "Akira tu peux m'appeler", "Je suis Akira"]
+},
+{"tag": "Humeurs",
+    "patterns": ["Comment tu vas ", "Comment ça va ", "tu vas bien", "bien ou quoi ?", "Tranquille ?", "ça va ", "sa va", "cv"],
+    "responses": ["Je vais bien, merci", "Niquel !","Super !", "ça va et toi", "Tres bien, merci"]
+}
+]}
